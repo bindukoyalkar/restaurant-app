@@ -1,0 +1,51 @@
+.parent
+{
+    width:100%;
+}
+.left
+{
+    float:left;
+    width:25%;
+    padding-left: 10px;
+}
+
+.right
+{
+    float:left;
+    width:75%;
+    border-left: 2px solid black;
+    height: 850px;
+}
+p{
+    text-align:center;
+    padding-top: 10px;
+    /* font-weight: bold; */
+}
+li{
+    font-size: 20px;
+}
+span{
+    font-size: small;
+}
+input{
+    padding-left:15px;
+    width: 50%;
+} 
+#takeOrder {
+    background-color: burlywood;
+
+}
+a{
+    cursor: pointer;
+}
+
+.items{
+    cursor: pointer;
+}
+.orange{
+    background-color: coral;
+}
+.modal-header{
+    background-color: blue;
+    color: white;
+}
